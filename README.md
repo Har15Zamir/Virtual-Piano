@@ -1,6 +1,6 @@
 # Virtual Piano
 
-A simple console-based piano in C where users can play basic songs.
+A simple console-based piano in C where users can select a song and learn how to play it using a beep function.
 
 ## Features
 - Play individual notes
